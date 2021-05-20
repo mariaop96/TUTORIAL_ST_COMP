@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+streamlit_custom_slider/__init__.py
+streamlit_custom_slider.egg-info/PKG-INFO
+streamlit_custom_slider.egg-info/SOURCES.txt
+streamlit_custom_slider.egg-info/dependency_links.txt
+streamlit_custom_slider.egg-info/requires.txt
+streamlit_custom_slider.egg-info/top_level.txt
